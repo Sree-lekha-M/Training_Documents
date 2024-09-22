@@ -1,0 +1,6 @@
+Recap:
+Make incremental changes to a file in VS Code.
+Stage the changes in the Source Control panel.
+Commit the changes with a meaningful commit message.
+Push the changes to GitHub using the Sync Changes button or git push command.
+Verify that the changes have been pushed by checking GitHub.
